@@ -101,7 +101,7 @@
           </div>
         </div>
       </div>
-    </section>
+  
     
         <h2>Recent Works</h2>
         <!-- img -->
